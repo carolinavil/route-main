@@ -39,8 +39,9 @@ module.exports = {
         transparent: "transparent",
         white: "#FFFFFF",
         black: "#121723",
+        orange:"#cb6a08",
         dark: "#1D2430",
-        primary: "#001f62",
+        primary: "#fa8b1e",
         yellow: "#FBB040",
         "bg-color-dark": "#171C28",
         "body-color": {
@@ -53,8 +54,8 @@ module.exports = {
         },
         gray: {
           ...colors.gray,
-          dark: "#1E232E",
-          light: "#F0F2F9",
+          dark: "#CB6A0859",
+          light: "#CB6A0859",
         },
       },
 

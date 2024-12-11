@@ -34,10 +34,10 @@ const Hero = () => {
                     🔥 Get Pro
                   </Link> */}
                   <Link
-                    href="https://digital.necton.com.br/cadastro/?assessor=1018095"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-block rounded-3xl bg-black px-8 py-5 text-1xl font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
+                    className="inline-block rounded-3xl bg-orange px-8 py-5 text-1xl font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
                     Quero abrir minha conta agora
                   </Link>

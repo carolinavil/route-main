@@ -4,7 +4,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Políticas | Verbum Capital Assessor de Investimentos",
+  title: "Políticas | Router Investimentos ",
   description: "Conheça nossas políticas de privacidade",
   // other metadata
 };

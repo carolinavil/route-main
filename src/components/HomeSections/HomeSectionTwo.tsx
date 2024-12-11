@@ -12,13 +12,13 @@ const AboutSectionTwo = () => {
               data-wow-delay=".15s"
             >
               <Image
-                src="/images/home/bg-simule.png"
+                src="/images/home/cellman.png"
                 alt="about image"
                 fill
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
-                src="/images/about/about-image-2-dark.svg"
+                src="/images/about/cellman.png"
                 alt="about image"
                 fill
                 className="hidden drop-shadow-three dark:block dark:drop-shadow-none rounded-lg"
@@ -36,7 +36,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-8 text-lg font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-1xl">
                   Acesse o nosso simulador e veja quais os melhores produtos para você investir.
                 </h3>
-                <a href="https://simulador.btgpactual.com/partner/9563013" target="_blank" rel="noopener noreferrer" className="text-base max-w-[170px] flex items-center justify-center font-medium leading-relaxed bg-primary text-white py-3 px-4 sm:px-8 rounded-xl sm:text-lg sm:leading-relaxed hover:bg-blue-900 hover:justify-between">
+                <a href="" target="_blank" rel="noopener noreferrer" className="text-base max-w-[170px] flex items-center justify-center font-medium leading-relaxed bg-primary text-white py-3 px-4 sm:px-8 rounded-xl sm:text-lg sm:leading-relaxed hover:bg-blue-900 hover:justify-between">
                   <span className="mr-2">Acesse</span>
                   <IconArrowRight />
                 </a>
@@ -45,7 +45,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-8 text-lg font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-1xl">
                   Compare diferentes investimentos e saiba como fazer o seu dinheiro render mais.
                 </h3>
-                <a href="https://comparador.btgpactual.com/partner/9563013" target="_blank" rel="noopener noreferrer" className="text-base max-w-[190px] flex items-center justify-center font-medium leading-relaxed bg-primary text-white py-3 px-4 sm:px-8 rounded-xl sm:text-lg sm:leading-relaxed hover:bg-blue-900 hover:justify-between">
+                <a href="" target="_blank" rel="noopener noreferrer" className="text-base max-w-[190px] flex items-center justify-center font-medium leading-relaxed bg-primary text-white py-3 px-4 sm:px-8 rounded-xl sm:text-lg sm:leading-relaxed hover:bg-blue-900 hover:justify-between">
                   <span className="mr-2">Compare</span>
                   <IconArrowRight />
                 </a>

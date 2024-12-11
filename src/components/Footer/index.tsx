@@ -126,7 +126,7 @@ const Footer = () => {
                     <p
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      Rua Helena, 218, 5° andar, CJ 509 e 510, Vila Olímpia - SP
+                      Avenida das Américas, 3434 - Bloco 4, Sala 316, Barra da Tijuca - Rio de Janeiro, RJ, CEP 22631-000
                     </p>
                   </li>
                   {/* <li>
@@ -151,10 +151,10 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="mailto:contato@verbumcapital.com.br"
+                      href="mailto:contato@routeinvestimentos.com.br"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      contato@verbumcapital.com.br
+                      contato@routeinvestimentos.com.br
                     </a>
                   </li>
                 </ul>
@@ -182,20 +182,20 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="tel:08007220048"
+                      href="tel:08007725755"
                       className="mb-1 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      0800 7220 048
+                     0800 772 5755
                     </a>
                   </li>
                   <li>
                     <a
-                      href="https://btgpactual.com/ouvidoria"
+                      href=" https://www.safra.com.br/atendimento"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      www.btgpactual.com/ouvidoria
+                      www.safra.com.br/atendimento
                     </a>
                   </li>
 
@@ -232,11 +232,11 @@ const Footer = () => {
             <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
             <div className="px-6 pb-10 pt-10">
               <p className="text-[8px]/4 sm:text-[9px]/4 text-left text-body-color">
-              A Verbum Capital - Assessor de Investimentos LTDA., inscrita sob o CNPJ nº 53.161.654/0001-63 é uma empresa de assessoria de investimento devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM 178. Atuando no mercado financeiro como preposto do Banco BTG Pactual S/A, o que pode ser verificado através do site da ANCORD (https://www.ancord.org.br/certificacao-e-credenciamento/) ou através do site da Necton Investimentos (https://www.necton.com.br/seja-parceiro/). 
+              A Router Investimentos LTDA., inscrita sob o CNPJ XXXXX é uma empresa de assessoria de investimento devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM 178. Atuando no mercado financeiro como preposto do Banco Safra Invest S/A, o que pode ser verificado através do site da ANCORD (https://www.ancord.org.br/certificacao-e-credenciamento/) ou através do site da Necton Investimentos (https://www.safra.com.br/atendimento). 
                 <br /><br />
-                O Banco BTG Pactual S/A é instituição financeira integrante do sistema de distribuição de títulos e valores mobiliários, atuando como intermediário das operações de seus clientes. Na forma da legislação da CVM, o assessor de investimento não pode administrar ou gerir o patrimônio de investidores, pois é um preposto do intermediário e depende da autorização prévia do cliente para realizar operações no mercado financeiro. Na realização de operações com derivativos, existe a possibilidade de significativas perdas patrimoniais, inclusive, superiores aos valores investidos. 
+                O Banco Safra Invest S/A é instituição financeira integrante do sistema de distribuição de títulos e valores mobiliários, atuando como intermediário das operações de seus clientes. Na forma da legislação da CVM, o assessor de investimento não pode administrar ou gerir o patrimônio de investidores, pois é um preposto do intermediário e depende da autorização prévia do cliente para realizar operações no mercado financeiro. Na realização de operações com derivativos, existe a possibilidade de significativas perdas patrimoniais, inclusive, superiores aos valores investidos. 
                 <br /><br />
-                A assessoria pode exercer outras atividades relacionadas ao mercado financeiro, de capitais, securitário e de previdência e capitalização, que podem ou não ser em parceria com o BTG Pactual ou demais instituições, e que podem ou não ser realizadas pela mesma pessoa jurídica da assessoria. Especificamente quanto às atividades de gestão, consultoria e análise de valores mobiliários, estas podem vir a ser desempenhadas por empresas do grupo e nunca pela própria assessoria de investimentos, considerando que são atividades conflitantes e que exigem segregação. O investimento em ações é um investimento de risco e rentabilidade passada não é garantia de rentabilidade futura. Para reclamações, favor contatar a Ouvidoria do Banco BTG Pactual S/A no telefone nº 0800-722-0048. Para acessar nossa lista de sócios, clique aqui: (https://www.necton.com.br/seja-parceiro/)
+                A assessoria pode exercer outras atividades relacionadas ao mercado financeiro, de capitais, securitário e de previdência e capitalização, que podem ou não ser em parceria com o Safra Invest ou demais instituições, e que podem ou não ser realizadas pela mesma pessoa jurídica da assessoria. Especificamente quanto às atividades de gestão, consultoria e análise de valores mobiliários, estas podem vir a ser desempenhadas por empresas do grupo e nunca pela própria assessoria de investimentos, considerando que são atividades conflitantes e que exigem segregação. O investimento em ações é um investimento de risco e rentabilidade passada não é garantia de rentabilidade futura. Para reclamações, favor contatar a Ouvidoria do Banco Safra Invest S/A no telefone nº 0800-722-0048. Para acessar nossa lista de sócios, clique aqui: (https://www.safra.com.br/atendimento)
               </p>
             </div>
           </div>
@@ -244,7 +244,7 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-sm text-body-color dark:text-white">
-              © 2024 Verbum Capital - Assessor de Investimentos LTDA. Todos os direitos reservados.{" "}
+              © 2024 Router Investimentos LTDA. Todos os direitos reservados.{" "}
             </p>
             <a
               href="http://cyostech.com"
@@ -252,7 +252,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="hover:text-primary flex justify-center text-center text-sm text-body-color dark:text-white"
             >
-              Criado e monitorado por&nbsp;<b>Cyos Technologies</b>
+              Criado e monitorado por&nbsp;<b>Tyra pro</b>
             </a>
           </div>
         </div>

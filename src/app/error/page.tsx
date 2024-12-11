@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Error Page | Verbum Capital Assessor de Investimentos",
+  title: "Error Page | Router Investimentos ",
   description: "This is Error Page for Startup Nextjs Template",
   // other metadata
 };

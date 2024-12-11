@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Verbum Capital Assessor de Investimentos",
+  title: "Route Investimentos",
   description: "Os melhores assessores cuidando dos seus investimentos.",
   // other metadata
 };

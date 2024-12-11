@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign In Page | Verbum Capital Assessor de Investimentos",
+  title: "Sign In Page | Router Investimentos",
   description: "This is Sign In Page for Startup Nextjs Template",
   // other metadata
 };

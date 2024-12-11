@@ -43,12 +43,12 @@ const OndeSectionOne = () => {
                 <div className="pt-10 text-black">
                   <b>Conheça nosso escritório: </b> <br />
                   <a 
-                    href="https://maps.app.goo.gl/1CdiE4fmkd9EigUk6"
+                    href="https://maps.app.goo.gl/otEcbq6nTKK3EMkj6"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-body-color hover:text-primary hover:underline underline-offset-1"
                   >
-                    Rua Helena, 218, 5° andar, CJ 509 e 510, Vila Olímpia - SP
+                    Avenida das Américas, 3434 - Bloco 4, Sala 316, Barra da Tijuca - Rio de Janeiro
                   </a>
                 </div>
               </div>
@@ -57,7 +57,7 @@ const OndeSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Estamos perto de você"
-                paragraph="Acreditamos na pluralidade para alcançar pessoas e democratizar a assessoria de investimentos. Falamos de dinheiro da melhor forma para cada perfil de cliente, valorizando sotaques, cultura e níveis de conhecimento. Por isso, estaremos sempre à sua disposição, onde quer que seja, para recebê-lo (a) ou visitá-lo (a). Te aguardamos para um café e será uma honra recebê-lo (a) em nosso escritório, localizado no principal polo comercial e financeiro do país, em São Paulo."
+                paragraph="Acreditamos na pluralidade para alcançar pessoas e democratizar a assessoria de investimentos. Falamos de dinheiro da melhor forma para cada perfil de cliente, valorizando sotaques, cultura e níveis de conhecimento. Por isso, estaremos sempre à sua disposição, onde quer que seja, para recebê-lo (a) ou visitá-lo (a). Te aguardamos para um café e será uma honra recebê-lo (a) em nosso escritório, localizado em um dos principais polos comercial e financeiro do país, no Rio de Janeiro."
                 mb="44px"
               />
             </div>
@@ -81,14 +81,14 @@ const OndeSectionOne = () => {
                 <div className="pt-10">
                   <b>Conheça nosso escritório: </b> <br />
                   <a 
-                    href="https://maps.app.goo.gl/1CdiE4fmkd9EigUk6"
+                    href="https://maps.app.goo.gl/otEcbq6nTKK3EMkj6"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ 
                       textDecoration: 'underline',
                     }}
                   >
-                    Rua Helena, 218, 5° andar, CJ 509 e 510, Vila Olímpia - SP
+                    Avenida das Américas, 3434 - Bloco 4, Sala 316, Barra da Tijuca - Rio de Janeiro, RJ, CEP 22631-000
                   </a>
                 </div>
               </div>

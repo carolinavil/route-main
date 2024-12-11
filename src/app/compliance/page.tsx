@@ -4,7 +4,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Compliance | Verbum Capital Assessor de Investimentos",
+  title: "Compliance | Router Investimentos ",
   description: "Acreditamos que a integridade é a chave para construir relacionamentos duradouros com nossos clientes.",
   // other metadata
 };

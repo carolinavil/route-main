@@ -15,8 +15,8 @@ const NewsLatterBox = () => {
       </p>
       <div>
         <form
-          action="https://formspree.io/f/xdoqzklz"
-          method="POST"
+          // action="https://formspree.io/f/xdoqzklz"
+          // method="POST"
         >
           <input
             type="text"

@@ -31,7 +31,7 @@ const Equipe = () => {
             <ul role="list" className="grid px-10 gap-x-10 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:row-span-2">
               
               {/* Alexandre Mori */}
-              <li>
+              {/* <li>
                 <div className="flex flex-col items-center">
                   <Image 
                     className="w-full rounded-3xl" 
@@ -45,55 +45,12 @@ const Equipe = () => {
                     <p className="text-lg font-medium leading-6 text-primary">Sócio-Diretor & Assessor de Investimentos</p>
                   </div>
 
-                  {/* Socials */}
+               
                   <div className="w-full flex flex-row pt-5">
 
-                    {/* Instagram */}
-                    {/* <a
-                      href="/"
-                      aria-label="social-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                      <svg xmlns="http://www.w3.org/2000/svg" 
-                        fill="none" 
-                        width="25" 
-                        height="25" 
-                        viewBox="0 0 256 256"
-                        style={{ marginTop: -3 }}
-                      >
-                        <path d="M160,128a32,32,0,1,1-32-32A32.03667,32.03667,0,0,1,160,128Zm68-44v88a56.06353,56.06353,0,0,1-56,56H84a56.06353,56.06353,0,0,1-56-56V84A56.06353,56.06353,0,0,1,84,28h88A56.06353,56.06353,0,0,1,228,84Zm-52,44a48,48,0,1,0-48,48A48.05436,48.05436,0,0,0,176,128Zm16-52a12,12,0,1,0-12,12A12,12,0,0,0,192,76Z"
-                        fill="currentColor"
-                        />
-                      </svg>
-                    </a> */}
+                   
 
-                    {/* X */}
-                    {/* <a
-                      href="/"
-                      aria-label="social-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                      <svg
-                        width="21"
-                        height="21"
-                        viewBox="0 0 22 22"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          clipRule="evenodd"
-                          d="M13.9831 19.25L9.82094 13.3176L4.61058 19.25H2.40625L8.843 11.9233L2.40625 2.75H8.06572L11.9884 8.34127L16.9034 2.75H19.1077L12.9697 9.73737L19.6425 19.25H13.9831ZM16.4378 17.5775H14.9538L5.56249 4.42252H7.04674L10.808 9.6899L11.4584 10.6039L16.4378 17.5775Z"
-                          fill="currentColor"
-                        />
-                      </svg>
-                    </a> */}
-
-                    {/* LinkedIn */}
+                    
                     <a
                       href="https://www.linkedin.com/in/agmori"
                       aria-label="social-link"
@@ -112,13 +69,13 @@ const Equipe = () => {
                     </a>
                   </div>
                 </div>
-              </li>
+              </li> */}
 
               {/* Carlos */}
            
 
               {/* Victor Sampaio */}
-              <li>
+              {/* <li>
                 <div className="flex flex-col items-center">
                   <Image 
                     className="w-full rounded-3xl" 
@@ -132,55 +89,10 @@ const Equipe = () => {
                     <p className="text-lg font-medium leading-6 text-primary">Sócio & Assessor de Investimentos</p>
                   </div>
 
-                  {/* Socials */}
+               
                   <div className="w-full flex flex-row pt-5">
 
-                    {/* Instagram */}
-                    {/* <a
-                      href="/"
-                      aria-label="social-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                      <svg xmlns="http://www.w3.org/2000/svg" 
-                        fill="none" 
-                        width="25" 
-                        height="25" 
-                        viewBox="0 0 256 256"
-                        style={{ marginTop: -3 }}
-                      >
-                        <path d="M160,128a32,32,0,1,1-32-32A32.03667,32.03667,0,0,1,160,128Zm68-44v88a56.06353,56.06353,0,0,1-56,56H84a56.06353,56.06353,0,0,1-56-56V84A56.06353,56.06353,0,0,1,84,28h88A56.06353,56.06353,0,0,1,228,84Zm-52,44a48,48,0,1,0-48,48A48.05436,48.05436,0,0,0,176,128Zm16-52a12,12,0,1,0-12,12A12,12,0,0,0,192,76Z"
-                        fill="currentColor"
-                        />
-                      </svg>
-                    </a> */}
-
-                    {/* X */}
-                    {/* <a
-                      href="/"
-                      aria-label="social-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                      <svg
-                        width="21"
-                        height="21"
-                        viewBox="0 0 22 22"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          clipRule="evenodd"
-                          d="M13.9831 19.25L9.82094 13.3176L4.61058 19.25H2.40625L8.843 11.9233L2.40625 2.75H8.06572L11.9884 8.34127L16.9034 2.75H19.1077L12.9697 9.73737L19.6425 19.25H13.9831ZM16.4378 17.5775H14.9538L5.56249 4.42252H7.04674L10.808 9.6899L11.4584 10.6039L16.4378 17.5775Z"
-                          fill="currentColor"
-                        />
-                      </svg>
-                    </a> */}
-
-                    {/* LinkedIn */}
+                  
                     <a
                       href="https://www.linkedin.com/in/vsampaioo/"
                       aria-label="social-link"
@@ -199,7 +111,7 @@ const Equipe = () => {
                     </a>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
           <Principios />

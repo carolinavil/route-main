@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "Clássico",
     paragraph:
-      "Investimentos de até R$ 300 mil. Relacionamento passivo com a equipe de assessoria da Verbum Capital e exposição à plataforma de produtos e serviços Necton.",
+      "Investimentos de até R$ 300 mil. Relacionamento passivo com a equipe de assessoria da Router Investimentos e exposição à plataforma de produtos e serviços Safra Invest.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
