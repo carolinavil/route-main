@@ -1,4 +1,4 @@
-# Router Investimentos
+# Route Investimentos
 
 ### Requisitos
 Node >=18

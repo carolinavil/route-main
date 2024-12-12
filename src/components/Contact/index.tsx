@@ -31,10 +31,10 @@ const Contact = () => {
                   height="850" 
                 >Carregando…</iframe>
               </div> */}
-              <form
-                // action="https://formspree.io/f/mjvnrkew"
-                // method="POST"
-              >
+            <form
+  action="https://formspree.io/f/mdkovjwj"
+  method="POST"
+>
                 <div className="-mx-4 flex flex-wrap">
                   <div className="w-full px-4 md:w-1/2">
                     <div className="mb-8">

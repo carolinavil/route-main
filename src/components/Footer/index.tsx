@@ -35,7 +35,8 @@ const Footer = () => {
 
                   {/* Instagram */}
                   <a
-                    href="https://www.instagram.com/verbumcapital/"
+                    href="https://www.instagram.com/routeinvest/profilecard/?igsh=YWVydmMxenYyd240
+"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -53,29 +54,7 @@ const Footer = () => {
                     </svg>
                   </a>
 
-                  {/* X */}
-                  <a
-                    href="https://x.com/verbumcapital"
-                    aria-label="social-link"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                  >
-                    <svg
-                      width="18"
-                      height="18"
-                      viewBox="0 0 22 22"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        fillRule="evenodd"
-                        clipRule="evenodd"
-                        d="M13.9831 19.25L9.82094 13.3176L4.61058 19.25H2.40625L8.843 11.9233L2.40625 2.75H8.06572L11.9884 8.34127L16.9034 2.75H19.1077L12.9697 9.73737L19.6425 19.25H13.9831ZM16.4378 17.5775H14.9538L5.56249 4.42252H7.04674L10.808 9.6899L11.4584 10.6039L16.4378 17.5775Z"
-                        fill="currentColor"
-                      />
-                    </svg>
-                  </a>
+               
 
                   {/* YouTube */}
                   {/* <a
@@ -97,7 +76,7 @@ const Footer = () => {
 
                   {/* LinkedIn */}
                   <a
-                    href="https://www.linkedin.com/company/verbum-capital/"
+                    href="https://www.linkedin.com/company/route-investments"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -126,7 +105,7 @@ const Footer = () => {
                     <p
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      Avenida das Américas, 3434 - Bloco 4, Sala 316, Barra da Tijuca - Rio de Janeiro, RJ, CEP 22631-000
+                      Avenida das Américas, 3434 - Bloco 4, Sala 316, Barra da Tijuca 
                     </p>
                   </li>
                   {/* <li>
@@ -232,11 +211,25 @@ const Footer = () => {
             <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
             <div className="px-6 pb-10 pt-10">
               <p className="text-[8px]/4 sm:text-[9px]/4 text-left text-body-color">
-              A Router Investimentos LTDA., inscrita sob o CNPJ XXXXX é uma empresa de assessoria de investimento devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM 178. Atuando no mercado financeiro como preposto do Banco Safra Invest S/A, o que pode ser verificado através do site da ANCORD (https://www.ancord.org.br/certificacao-e-credenciamento/) ou através do site da Necton Investimentos (https://www.safra.com.br/atendimento). 
+              Route Assessoria em Investimentos LTDA (CNPJ 54.542.639/0001-28) refere-se à Assessoria de Investimentos, Correspondência Bancária, e Corretagem de Seguros e/ou Previdência, devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM n° 178/2023, e credenciada junto ao Banco Safra S.A. e/ou Safra Corretora de Valores e Câmbio Ltda., o que pode ser verificado no site da CVM (www.cvm.gov.br) ou no site do Banco Safra (www.safra.com.br/safra-invest.htm). 
                 <br /><br />
-                O Banco Safra Invest S/A é instituição financeira integrante do sistema de distribuição de títulos e valores mobiliários, atuando como intermediário das operações de seus clientes. Na forma da legislação da CVM, o assessor de investimento não pode administrar ou gerir o patrimônio de investidores, pois é um preposto do intermediário e depende da autorização prévia do cliente para realizar operações no mercado financeiro. Na realização de operações com derivativos, existe a possibilidade de significativas perdas patrimoniais, inclusive, superiores aos valores investidos. 
+                O Assessor de Investimentos é preposto do Safra na distribuição de produtos de investimentos e captação de clientes. Investimentos em títulos e valores mobiliários envolvem riscos. A decisão pelo tipo e perfil de investimento é de responsabilidade exclusiva do cliente, razão pela qual se recomenda fortemente que o investidor faça uma avaliação independente sobre as operações pretendidas, riscos, condições e tributação aplicável. Quaisquer referências e rentabilidades passadas não significam de qualquer forma a garantia ou previsibilidade de rentabilidades futuras.
                 <br /><br />
-                A assessoria pode exercer outras atividades relacionadas ao mercado financeiro, de capitais, securitário e de previdência e capitalização, que podem ou não ser em parceria com o Safra Invest ou demais instituições, e que podem ou não ser realizadas pela mesma pessoa jurídica da assessoria. Especificamente quanto às atividades de gestão, consultoria e análise de valores mobiliários, estas podem vir a ser desempenhadas por empresas do grupo e nunca pela própria assessoria de investimentos, considerando que são atividades conflitantes e que exigem segregação. O investimento em ações é um investimento de risco e rentabilidade passada não é garantia de rentabilidade futura. Para reclamações, favor contatar a Ouvidoria do Banco Safra Invest S/A no telefone nº 0800-722-0048. Para acessar nossa lista de sócios, clique aqui: (https://www.safra.com.br/atendimento)
+                A marca SAFRA INVEST é de propriedade e objeto de direitos exclusivos de empresas do Grupo J. Safra, das quais fazem parte o Banco Safra S.A. e Safra Corretora de Valores e Câmbio Ltda ("Safra"). O conteúdo desta mensagem está sujeito a alterações, condições adicionais e negociação específica, não se configurando ou devendo ser entendida como oferta pública ou privada, relatório de análise ou consultoria de valores mobiliários tais como definidos na legislação e regulamentação. O Grupo Safra não será responsável por perdas diretas, indiretas ou lucros cessantes decorrentes da utilização deste material para quaisquer finalidades.
+                <br /><br />
+
+                Para informações e dúvidas, favor contatar o seu Assessor de Investimentos, corretor ou correspondente bancário ou a Central de Atendimento Safra Invest:
+55 (11) 3253 4455 (Capital e Grande São Paulo) e 0300 105 1234 (Demais localidades) - De 2ª a 6ª feira, das 8h às 21h30, exceto feriados.
+Serviço de Atendimento ao Consumidor (SAC): 0800 772 5755.
+Atendimento aos Portadores de Necessidades Especiais Auditivas e de Fala: 0800 772 4136. 24 horas por dia.
+Ouvidoria (caso já tenha recorrido ao SAC e não esteja satisfeito): 0800 770 1236.
+Atendimento aos Portadores de Necessidades Especiais Auditivas e de Fala: 0800 727 7555.
+WhatsApp: (11) 2650-9909 e Chat: www.safra.com.br/atendimento/ouvidoria.htm. De 2ª a 6ª feira, das 9h às 18h, exceto feriados.
+Ou para formulário eletrônico disponível 24 horas acesse: safra.com.br/atendimento/ouvidoria.htm.
+                <br /><br />
+                Política de Privacidade:
+                Conheça a Política de Privacidade do Safra: www.safra.com.br/sobre/portal-da-privacidade-e-lgpd.htm
+             
               </p>
             </div>
           </div>
@@ -244,7 +237,7 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-sm text-body-color dark:text-white">
-              © 2024 Router Investimentos LTDA. Todos os direitos reservados.{" "}
+              © 2024 Route Investimentos LTDA. Todos os direitos reservados.{" "}
             </p>
             <a
               href="http://cyostech.com"
@@ -252,7 +245,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="hover:text-primary flex justify-center text-center text-sm text-body-color dark:text-white"
             >
-              Criado e monitorado por&nbsp;<b>Tyra pro</b>
+              Criado e monitorado por&nbsp;<b>Tyra.pro</b>
             </a>
           </div>
         </div>

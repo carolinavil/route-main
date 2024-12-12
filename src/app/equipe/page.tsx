@@ -4,7 +4,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Conheça nossa equipe | Router Investimentos ",
+  title: "Conheça nossa equipe | Route Investimentos ",
   description: "Conheça nossa equipe de profissionais",
   // other metadata
 };

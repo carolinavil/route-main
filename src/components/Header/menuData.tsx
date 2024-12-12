@@ -29,7 +29,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "Conteúdo",
-    path: "https://blog.verbumcapital.com/",
+    path: "https://blog-route-main.vercel.app",
     newTab: false,
   },
   {

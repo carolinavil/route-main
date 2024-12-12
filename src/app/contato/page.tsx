@@ -4,7 +4,7 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Entre em contato | Router Investimentos ",
+  title: "Entre em contato | Route Investimentos ",
   description: "Nossa equipe de atendimento está preparada para te atender.",
   // other metadata
 };

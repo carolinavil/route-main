@@ -38,7 +38,7 @@ const ComplianceSectionTwo = () => {
                   Palavra
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-md sm:leading-relaxed">
-                  Na Router Investimentos, a palavra não é apenas uma promessa, é a base de tudo o que fazemos. Nosso compromisso com a honestidade e a transparência é o que nos define.
+                  Na Route Investimentos, a palavra não é apenas uma promessa, é a base de tudo o que fazemos. Nosso compromisso com a honestidade e a transparência é o que nos define.
                 </p>
               </div>
               <div className="mb-1">
@@ -108,7 +108,7 @@ const ComplianceSectionTwo = () => {
                 Nossa missão
               </h3>
               <p className="text-base font-medium leading-relaxed text-body-color sm:text-md sm:leading-relaxed">
-                Na Router Investimentos, nossa missão vai muito além do que apenas auxiliar nossos clientes a investir melhor e solidificar o patrimônio de sua família. Mas, principalmente, auxilia-los à alcançar seus objetivos financeiros a longo prazo através de uma abordagem transparente, personalizada e próxima. <br />
+                Na  Investimentos, nossa missão vai muito além do que apenas auxiliar nossos clientes a investir melhor e solidificar o patrimônio de sua família. Mas, principalmente, auxilia-los à alcançar seus objetivos financeiros a longo prazo através de uma abordagem transparente, personalizada e próxima. <br />
                 Somos especialistas certificados em investimentos, porém, sempre preparados para estar com nossos clientes, entender e atender suas necessidades em uma visão 360º.Vinculados à Safra, uma empresa do Banco Safra Invest, o maior Banco de Investimentos da América Latina, nos dedicamos a fornecer soluções de investimentos, blindagem patrimonial, crédito, no âmbito nacional e internacional, tanto para pessoas físicas quanto jurídicas, que não são apenas eficazes, mas também transparentes e éticas. 
                 <br /><br />
                 Nosso maior patrimônio, além de nossos clientes, é a nossa palavra. Nossa palavra é nosso vínculo - e é esse compromisso que nos guia em tudo o que fazemos.

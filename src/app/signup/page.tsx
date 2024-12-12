@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign Up Page | Router Investimentos ",
+  title: "Sign Up Page | Route Investimentos ",
   description: "This is Sign Up Page for Startup Nextjs Template",
   // other metadata
 };
