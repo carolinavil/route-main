@@ -34,7 +34,7 @@ const Hero = () => {
                     🔥 Get Pro
                   </Link> */}
                   <Link
-                    href=""
+                    href="https://api.whatsapp.com/send?phone=5521964410629"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block rounded-3xl bg-orange px-8 py-5 text-1xl font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
