@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Investimentos | Route Investimentos",
-  description: "Soluções oferecidas em parceria com a Safra Invest",
+  description: "Soluções oferecidas em parceria com a Safra",
   // other metadata
 };
 
@@ -14,7 +14,7 @@ const Compliance = () => {
     <>
       <Breadcrumb
         pageName="Investimentos"
-          description="Soluções oferecidas pela assessoria vinculada à Safra Invest"
+          description="Soluções oferecidas pela assessoria vinculada à Safra"
       />
       <InvestSectionTwo />
     </>

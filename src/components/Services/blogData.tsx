@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "Clássico",
     paragraph:
-      "Investimentos de até R$ 300 mil. Relacionamento passivo com a equipe de assessoria da Route Investimentos e exposição à plataforma de produtos e serviços Safra Invest.",
+      "Investimentos de até R$ 300 mil. Relacionamento passivo com a equipe de assessoria da Route Investimentos e exposição à plataforma de produtos e serviços Safra.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",

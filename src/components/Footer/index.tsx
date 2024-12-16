@@ -145,7 +145,7 @@ const Footer = () => {
                       href="tel:1150260007"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      (11) 5026-0007
+                      (21) 2042-4450
                     </a>
                   </li>
                 </ul>
