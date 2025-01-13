@@ -27,7 +27,7 @@ const OndeSectionOne = () => {
             {/* Desktop map */}
             <div className="w-full hidden md:block px-4 lg:w-1/2">
               <div>
-                <Image src="./images/map/map-nordeste.png" alt="map" width={500} height={500} />
+                <Image src="./images/map/map-rj.png" alt="map" width={500} height={500} />
                 <div className="flex pt-5">
                   <Image src="./images/map/point.png" alt="map" width={15} height={15} />
                   <span className="text-body-color">&nbsp; Nosso escritório</span>

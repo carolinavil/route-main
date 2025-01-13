@@ -160,14 +160,6 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="tel:08007725755"
-                      className="mb-1 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                     0800 772 5755
-                    </a>
-                  </li>
-                  <li>
-                    <a
                       href=" https://www.safra.com.br/atendimento"
                       target="_blank"
                       rel="noopener noreferrer"

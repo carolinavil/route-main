@@ -23,7 +23,7 @@ const Equipe = () => {
     <section id="about" className="">
       <div className="container">
         <div className="bg-white py-24 sm:py-12">
-          <div className="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-rows-3">
+          <div className="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 ">
             <div className="max-w-2xl">
               <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">Nossa equipe</h2>
               <p className="mt-6 text-md font-medium leading-8 text-body-color">Profissionais altamente capacitados e reconhecidos no mercado financeiro nacional, com vasta experiência em Bancos e Corretoras de primeira linha. Diretores comprometidos com o sucesso dos clientes internos e externos, assessores próximos no seu dia a dia, conceituados e um time de especialistas de backoffice preparado, que tem como objetivo solidificar uma assessoria de investimentos capaz de entender para atender com excelência todos os perfis de investidores, no Brasil e no exterior.</p>
@@ -33,6 +33,13 @@ const Equipe = () => {
               {/* Alexandre Mori */}
               <li>
                 <div className="flex flex-col items-center">
+                <Image 
+                    className="w-full  rounded-3xl" 
+                    src="/images/equipe/daniel.jpeg" 
+                    alt=""
+                    width={100}
+                    height={100}
+                  />
                   <div className="w-full pt-5">
                     <h3 className="text-2xl font-semibold leading-10 tracking-tight text-gray-900">Daniel Borges</h3>
                     <p className="text-lg font-medium leading-6 text-primary">Sócio-Diretor & Assessor de Investimentos</p>
@@ -70,6 +77,13 @@ const Equipe = () => {
               {/* Victor Sampaio */}
               <li>
                 <div className="flex flex-col items-center">
+                <Image 
+                    className="w-full rounded-3xl" 
+                    src="/images/equipe/suellen.jpeg" 
+                    alt=""
+                    width={100}
+                    height={100}
+                  />
                   <div className="w-full pt-5">
                     <h3 className="text-2xl font-semibold leading-10 tracking-tight text-gray-900">Suellen Melo</h3>
                     <p className="text-lg font-medium leading-6 text-primary">Sócia & Assessora de Investimentos</p>
@@ -101,6 +115,13 @@ const Equipe = () => {
 
               <li>
                 <div className="flex flex-col items-center">
+                <Image 
+                    className="w-full rounded-3xl" 
+                    src="/images/equipe/yuri.jpeg" 
+                    alt=""
+                    width={100}
+                    height={100}
+                  />
                   <div className="w-full pt-5">
                     <h3 className="text-2xl font-semibold leading-10 tracking-tight text-gray-900">Yuri Sathler</h3>
                     <p className="text-lg font-medium leading-6 text-primary">Sócio & Assessor de Investimentos</p>
@@ -129,6 +150,44 @@ const Equipe = () => {
                   </div>
                 </div>
               </li>
+            </ul>
+
+
+
+
+            <ul role="list" className="grid px-10 gap-x-10 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:row-span-2">
+              
+              {/* Alexandre Mori */}
+              <li>
+                <div className="flex flex-col items-center">
+                <Image 
+                    className="w-full  rounded-3xl" 
+                    src="/images/equipe/equipe1.jpeg" 
+                    alt=""
+                    width={100}
+                    height={100}
+                  />
+                </div>
+              </li> 
+
+              {/* Carlos */}
+           
+
+              {/* Victor Sampaio */}
+              <li>
+                <div className="flex flex-col items-center">
+                <Image 
+                    className="w-full rounded-3xl" 
+                    src="/images/equipe/equipe2.jpeg" 
+                    alt=""
+                    width={100}
+                    height={100}
+                  />
+              
+                </div>
+              </li> 
+
+             
             </ul>
           </div>
           <Principios />

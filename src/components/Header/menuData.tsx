@@ -3,6 +3,12 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
+    title: "Contato",
+    path: "/contato",
+    newTab: false,
+  },
+  {
+    id: 2,
     title: "Sobre nós",
     newTab: false,
     submenu: [
@@ -27,23 +33,24 @@ const menuData: Menu[] = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "Conteúdo",
     path: "https://blog-route-main.vercel.app",
     newTab: false,
   },
   {
-    id: 3,
+    id: 4,
     title: "Investimentos",
     path: "/investimentos",
     newTab: false,
   },
   {
-    id: 4,
-    title: "Contato",
-    path: "/contato",
+    id: 5,
+    title: "Home",
+    path: "/",
     newTab: false,
   },
+
   /* {
     id: 3,
     title: "Pages",
