@@ -1,5 +1,15 @@
 import { useEffect, useState } from "react";
 
+
+
+declare global {
+  interface Window {
+    WiseChats?: {
+      init: (options: { id: string }) => void;
+    };
+  }
+}
+
 export default function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false);
 
@@ -9,8 +19,14 @@ export default function ScrollToTop() {
     window.scrollTo({
       top: 0,
       behavior: "smooth",
+
     });
   };
+
+
+
+
+
 
   useEffect(() => {
     // Button is displayed after scrolling for 500 pixels
@@ -29,6 +45,7 @@ export default function ScrollToTop() {
 
   return (
     <div className="fixed bottom-8 right-8 z-[99]">
+      
       {isVisible && (
         <div
           onClick={scrollToTop}
@@ -41,3 +58,4 @@ export default function ScrollToTop() {
     </div>
   );
 }
+
