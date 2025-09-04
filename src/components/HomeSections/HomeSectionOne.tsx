@@ -18,15 +18,22 @@ const AboutSectionOne = () => {
   );
 
   return (
-    <section id="about" className="pt-16 md:pt-20 lg:pt-28">
+    <section id="about"
+    
+     className=" bg-[#cb6a0833] white:bg-bg-color-dark py-16 md:py-20 lg:py-28"
+    >
+           {/* className="pt-16 md:pt-20 lg:pt-28"> */}
       <div className="container">
-        <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
+        <div className="  dark:border-white/[.15] ">
           <div className="-mx-4 flex flex-wrap items-center">
-            <div className="w-full px-4 lg:w-1/2">
+            <div className="w-full px-4 lg:w-1/2 text-white">
               <SectionTitle
-                title="Como atuamos"
+              
+                title="Como atuamoss"
                 paragraph="Acreditamos que a integridade é a chave para construir relacionamentos duradouros com nossos clientes. Mantemos os mais altos padrões éticos em todas as nossas operações. "
                 mb="24px"
+
+                
               />
 
               <SectionTitle

@@ -58,7 +58,7 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logo-2.svg"
+                  src="/images/logo/logo-nova.svg"
                   alt="logo"
                   width={150}
                   height={30}

@@ -29,7 +29,7 @@ export default function RootLayout({
           {children}
           <Footer />
           <WiseChatsWidget />
-          <ScrollToTop />
+          {/* <ScrollToTop /> */}
         </Providers>
       </body>
     </html>
