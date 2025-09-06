@@ -7,7 +7,7 @@ const Hero = () => {
         id="home"
         className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[100px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
         style={{ 
-          backgroundImage: `url("images/hero/background.png")`, 
+          backgroundImage: `url("images/hero/road-amidst-trees-field-against-sky.jpg")`, 
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           marginTop: 100,
@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[600px] text-left">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-white dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-white dark:text-black sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Protegendo seu patrimônio com excelência e confiança.
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-white dark:text-body-color-dark sm:text-lg md:text-4xl"

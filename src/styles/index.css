@@ -30,4 +30,15 @@
   input#checkboxLabel:checked ~ .box span {
     @apply opacity-100;
   }
+
+ .corporateTeste{
+background-color: white;
+  display: flex;
+  justify-content: center;
+  padding: 4em 0em 5em 0;
+ }
+
+ .imgCorporate{
+  margin-top: -2em;
+ }
 }

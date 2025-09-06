@@ -187,10 +187,15 @@ const InvestSectionTwo = () => {
             </div>
           </div>
         </div>
-
-        <Blog />
+    </div>
+    <div className="corporateTeste">
+       <Blog />
+    </div>
+       
+          <div className="container">
         <HomeSectionTwo />
       </div>
+   
     </section>
   );
 };
