@@ -35,8 +35,9 @@ const Blog = () => {
       </div>
        <div  className="mt-[100px]">
         <SectionTitle
-          title="O que é uma pessoa física?"
-          paragraph="Como uma pessoa física pode contar com diferentes serviços para crescer e se proteger no mercado"
+          title="Produtos pessoa física"
+          paragraph="Como uma pessoa física
+           pode contar com diferentes serviços para crescer e se proteger no mercado"
           center
       
         
@@ -44,7 +45,7 @@ const Blog = () => {
 
         <div
        className="corporaTeste" > <Image
-                                src="/images/blog/corporate.JPG"
+                                src="/images/blog/pf.JPG"
                                 alt="image"
                             width={800}   // ajuste para o tamanho real ou desejado
     height={600}
