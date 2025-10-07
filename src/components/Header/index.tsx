@@ -43,8 +43,8 @@ const Header = () => {
     <>
       <header
         className={`header left-0 top-0 z-40 flex w-full items-center ${sticky
-            ? "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-white !bg-opacity-100 shadow-sticky backdrop-blur-sm transition"
-            : "absolute bg-white dark:bg-gray-dark"
+          ? "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-white !bg-opacity-100 shadow-sticky backdrop-blur-sm transition"
+          : "absolute bg-white dark:bg-gray-dark"
           }`}
       >
         <div className="container">
@@ -97,8 +97,8 @@ const Header = () => {
                 <nav
                   id="navbarCollapse"
                   className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300 dark:border-body-color/20 dark:bg-dark lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${navbarOpen
-                      ? "visibility top-full opacity-100"
-                      : "invisible top-[120%] opacity-0"
+                    ? "visibility top-full opacity-100"
+                    : "invisible top-[120%] opacity-0"
                     }`}
                 >
                   <ul className="block lg:flex lg:space-x-12">
@@ -108,8 +108,8 @@ const Header = () => {
                           <Link
                             href={menuItem.path}
                             className={`flex py-2 text-base lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${usePathName === menuItem.path
-                                ? "text-primary dark:text-white"
-                                : "text-dark hover:text-primary dark:text-white/70 dark:hover:text-white"
+                              ? "text-primary dark:text-white"
+                              : "text-dark hover:text-primary dark:text-white/70 dark:hover:text-white"
                               }`}
                           >
                             {menuItem.title}
@@ -198,23 +198,7 @@ const Header = () => {
                   </svg>
                 </a>
 
-             <a
-  href="https://www.facebook.com/routeinvest"
-  aria-label="social-link"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
->
-  <svg
-    width="35"
-    height="33"
-    viewBox="0 0 24 24"
-    className="fill-current"
-  >
-    <path d="M22.675 0h-21.35C0.595 0 0 0.595 0 1.325v21.351C0 23.405 0.595 24 1.325 24H12.82v-9.294H9.692v-3.622h3.128V8.413c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463 0.099 2.794 0.143v3.24l-1.918 0.001c-1.504 0-1.796 0.715-1.796 1.763v2.31h3.587l-0.467 3.622h-3.12V24h6.116c0.73 0 1.324-0.595 1.324-1.324V1.325C24 0.595 23.405 0 22.675 0z" />
-  </svg>
-</a>
-
+             
 
               </div>
 
@@ -252,7 +236,7 @@ const Header = () => {
                   Sign In
                 </Link> */}
                 {/* <Link
-                  href="https://api.whatsapp.com/send?phone=5521964410629"
+                  href="https://api.whatsapp.F/send?phone=5521964410629"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="ease-in-up shadow-btn hover:shadow-btn-hover hidden rounded-sm bg-primary px-8 py-3 text-base font-medium text-white transition duration-300 hover:bg-opacity-90 md:block md:px-9 lg:px-6 xl:px-9"

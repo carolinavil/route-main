@@ -29,7 +29,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2 text-white">
               <SectionTitle
               
-                title="Como atuamoss"
+                title="Como atuamos"
                 paragraph="Acreditamos que a integridade é a chave para construir relacionamentos duradouros com nossos clientes. Mantemos os mais altos padrões éticos em todas as nossas operações. "
                 mb="24px"
 
