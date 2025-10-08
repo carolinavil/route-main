@@ -4,6 +4,137 @@
 @tailwind components;
 @tailwind utilities;
 
+.item-icon {
+ background: linear-gradient(180deg, #fb8905, #feb47b);
+    padding: 1em;
+}
+
+/* .circular-container {
+  position: relative;
+  width: 700px;
+
+    height: 40vh;
+  margin: 0 100px 100px auto;
+  border-radius: 50%;
+} */
+
+.circular-container {
+    position: relative;
+    /* width: 127%; */
+    /* background: #dbe06e; */
+    height: 36vh;
+    padding-top: 35em;
+    margin-bottom: 17em;
+      margin-right: 14em;
+  }
+.center-icon {
+    position: absolute;
+    top: 63%;
+    /* background: red; */
+    left: 100%;
+    width: 740px;
+    transform: translate(-50%, -50%);
+    font-size: 33px;
+}
+.center-icon2 {
+    position: absolute;
+    top: 66%;
+    /* background: red; */
+    left: 98%;
+    width: 640px;
+    transform: translate(-50%, -50%);
+    font-size: 33px;
+}
+.item-text h3{
+  background-color: white;
+}
+.circular-item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.item-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 10px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.item-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.item-text h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 5px 0;
+  color: #e66c00;
+}
+
+.item-text p {
+  font-size: 12px;
+  margin: 0;
+  color: #333;
+  background-color: white;
+}
+
+.item-icon:hover{
+background-color: #bd6f0f;
+transition: 0.5s;
+cursor: pointer;
+   width: 100px;
+    height: 100px;
+}
+
+
+
+.caixa-mobile{
+  display: none;
+}
+
+.caixa-desktop{
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .circular-item {
+    transform: rotate(var(--angle)) translate(150px) rotate(calc(-1 * var(--angle)));
+  }
+ .item-icon img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .item-text h3 {
+    font-size: 14px;
+  }
+  .item-text p {
+    font-size: 10px;
+  }
+
+  .circular-container {
+  margin: 0 auto;
+  max-width: 350px; /* limita o círculo no mobile */
+  height: 350px;
+}
+.caixa-desktop{
+  display: none;
+}
+
+.caixa-mobile{
+  display: block;
+}
+
+
+
+
+}
 @layer base {
   body {
     font-family: "Inter", sans-serif;
