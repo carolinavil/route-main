@@ -8,27 +8,27 @@ const items1 = [
   {
     title: "Crédito & Financiamentos",
     desc: "Soluções personalizadas para atender às necessidades de capital da sua empresa.",
-    img: "/images/blog/cash-deposit_17522259.png",
+    img: "/images/blog/financial-insurance_17522294.png",
   },
   {
     title: "Gestão Estratégica de Caixa",
     desc: "Planejamento eficiente para otimizar o fluxo de caixa corporativo.",
-    img: "/images/blog/check_16061550.png",
+    img: "/images/blog/cash-deposit_17522259.png",
   },
   {
-    title: "Operações Estruturadas",
+    title: "Operaçõess Estruturadas",
     desc: "Soluções sob medida para atender demandas financeiras complexas.",
-    img: "/images/blog/earth-globe_1070546.png",
+    img: "/images/blog/money_8886257.png",
   },
   {
     title: "Planejamento Patrimonial e Sucessório",
     desc: "Soluções estratégicas para proteger e perpetuar o patrimônio familiar e empresarial.",
-    img: "/images/blog/introduction_6234999.png",
+    img: "/images/blog/check_16061550.png",
   },
   {
     title: "M&A – Fusões e Aquisições",
     desc: "Consultoria especializada para estruturar, negociar operações estratégicas de compra, venda ou associação entre empresas.",
-    img: "/images/blog/money_8886257.png",
+    img: "/images/blog/introduction_6234999.png",
   },
   {
     title: "Outros Produtos",
@@ -38,12 +38,55 @@ const items1 = [
   {
     title: "Operações de Mercado Exterior",
     desc: "Facilitação de transações internacionais com segurança e eficiência.",
-    img: "/images/blog/strategy_9926384.png",
+    img: "/images/blog/earth-globe_1070546.png",
   },
   {
     title: "Derivativos",
     desc: "Proteção contra oscilações de mercado por meio de estratégias financeiras avançadas.",
-    img: "/images/blog/financial-insurance_17522294.png",
+    img: "/images/blog/strategy_9926384.png",
+  },
+];
+
+const items2 = [
+  {
+    title: "Fundos da Safra Asset",
+    desc: "Administradora reconhecida por seu desempenho no mercado.",
+    img: "/images/blog/check_16061550.png",
+  },
+  {
+    title: "Plataforma Aberta",
+    desc: "Fundos de gestores renomados, criteriosamente selecionados pelo Safra.",
+    img: "/images/blog/cash-deposit_17522259.png",
+  },
+  {
+    title: "Análise Macroeconômica",
+    desc: "Nossas projeções e os fatores que podem impactar a economia.",
+    img: "/images/blog/mobile-payment_8886228.png",
+  },
+  {
+    title: "Renda Fixa",
+    desc: "Variedade de produtos que combinam segurança e rentabilidade.",
+    img: "/images/blog/safe-box_8886247.png",
+  },
+  {
+    title: "Alocação Internacional",
+    desc: "Exposição a ativos globais para diversificação e acesso às melhores oportunidades do mercado internacional.",
+    img: "/images/blog/internet_801906.png",
+  },
+  {
+    title: "Planejamento Patrimonial e Sucessório",
+    desc: "Soluções estratégicas para proteger e perpetuar o patrimônio familiar e empresarial.",
+    img: "/images/blog/check_16061550.png",
+  },
+  {
+    title: "Investimentos Estruturados",
+    desc: "Soluções sofisticadas, desenvolvidas sob medida.",
+    img: "/images/blog/money_8886257.png",
+  },
+  {
+    title: "Corretora Safra e Equipe de Research",
+    desc: "Acesso ao mercado acionário com suporte do time de especialistas.",
+    img: "/images/blog/search_8886237.png",
   },
 ];
 
@@ -96,7 +139,7 @@ const Blog = () => {
     </div>
     
       <SectionTitle
-          title="Soluções Corporate"
+          title="Soluções Física"
           paragraph=""
           center
 
@@ -111,7 +154,7 @@ const Blog = () => {
     height={600}
   className="object-contain"
   /></div> {/* Centro do círculo */}
-      {items1.map((item, index) => {
+      {items2.map((item, index) => {
         const angle = (index / items1.length) * 360; // ângulo de cada item
         return (
           
