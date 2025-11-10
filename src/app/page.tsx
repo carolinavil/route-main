@@ -16,7 +16,6 @@ export const metadata: Metadata = {
   description: "Os melhores assessores cuidando dos seus investimentos.",
   // other metadata
 };
-
 export default function Home() {
   return (
     <>
@@ -29,7 +28,7 @@ export default function Home() {
       {/* <Testimonials /> */}
       {/* <Pricing /> */}
       {/* <Services /> */}
-      <HomeSectionOne />
+      {/* <HomeSectionOne /> */}
       {/* <Contact /> */}
     </>
   );

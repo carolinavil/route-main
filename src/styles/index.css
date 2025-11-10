@@ -84,7 +84,7 @@
   background-color: white;
 }
 
-.item-icon:hover{
+.circular-item:hover  .item-icon{
 background-color: #bd6f0f;
 transition: 0.5s;
 cursor: pointer;
@@ -92,6 +92,19 @@ cursor: pointer;
     height: 100px;
 }
 
+.circular-item:hover .item-text h3 {
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.circular-item:hover .item-text p {
+  font-size: 14px;
+  transition: 0.5s;
+}
+.circular-item:hover {
+ cursor: pointer;
+
+}
 
 
 .caixa-mobile{

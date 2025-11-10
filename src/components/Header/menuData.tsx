@@ -39,18 +39,19 @@ const menuData: Menu[] = [
       },
     ],
   },
-  {
+    {
     id: 4,
-    title: "Conteúdo",
-    path: "https://blog.routeinvestimentos.com.br",
-    newTab: false,
-  },
-  {
-    id: 5,
     title: "Investimentos",
     path: "/investimentos",
     newTab: false,
   },
+  {
+    id:5,
+    title: "Conteúdo",
+    path: "https://blog.routeinvestimentos.com.br",
+    newTab: false,
+  },
+
 
   /* {
     id: 3,

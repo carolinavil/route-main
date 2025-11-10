@@ -7,9 +7,12 @@ const InvestSectionTwo = () => {
   return (
     <section className="py-16 md:py-20 lg:py-28">
       <div className="container">
-
+  <div className="corporateTeste">
+       <Blog />
+    </div>
+       
         {/* Tesouro direto */}
-        <div className="flex flex-wrap items-center md:mx-12 border rounded-xl">
+        {/* <div className="flex flex-wrap items-center md:mx-12 border rounded-xl">
           <div className="w-full lg:w-1/2">
             <div
               className="relative mx-auto mb-12 text-center lg:m-0"
@@ -36,9 +39,9 @@ const InvestSectionTwo = () => {
               </div>              
             </div>
           </div>
-        </div>
+        </div> */}
 
-        {/* Renda fixa */}
+        Renda fixa
         <div className="flex flex-wrap items-center mt-10 md:mx-12 border rounded-xl">
           <div className="w-full lg:w-1/2">
             <div
@@ -98,8 +101,8 @@ const InvestSectionTwo = () => {
           </div>
         </div>
 
-        {/* Renda Variável */}
-        <div className="flex flex-wrap items-center mt-10 md:mx-12 border rounded-xl">
+     
+        {/* <div className="flex flex-wrap items-center mt-10 md:mx-12 border rounded-xl">
           <div className="w-full lg:w-1/2">
             <div
               className="relative mx-auto mb-12 text-center lg:m-0"
@@ -128,7 +131,7 @@ const InvestSectionTwo = () => {
           </div>
         </div>
 
-        {/* Fundos Imobiliários */}
+      
         <div className="flex flex-wrap items-center mt-10 md:mx-12 border rounded-xl">
           <div className="w-full lg:w-1/2">
             <div
@@ -156,7 +159,7 @@ const InvestSectionTwo = () => {
               </div>              
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Certificados de Operações Estruturadas */}
         <div className="flex flex-wrap items-center mb-16 mt-10 md:mx-12 border rounded-xl">
@@ -188,10 +191,7 @@ const InvestSectionTwo = () => {
           </div>
         </div>
     </div>
-    <div className="corporateTeste">
-       <Blog />
-    </div>
-       
+  
           <div className="container">
         <HomeSectionTwo />
       </div>

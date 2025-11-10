@@ -1,5 +1,6 @@
 import ComplianceSectionTwo from "@/components/Compliance/ComplianceSectionTwo";
 import Breadcrumb from "@/components/Common/Breadcrumb";
+import AboutSectionOne from "@/components/HomeSections/HomeSectionOne";
 
 import { Metadata } from "next";
 
@@ -16,6 +17,8 @@ const AboutPage = () => {
         pageName="Compliance"
         description="Conheça nossas soluções e ações para construir uma marca e negócio pautados na ética e boa conduta."
       />
+
+      <AboutSectionOne />
       <ComplianceSectionTwo />
     </>
   );

@@ -55,7 +55,7 @@ const items2 = [
   },
   {
     title: "Plataforma Aberta",
-    desc: "Fundos de gestores renomados, criteriosamente selecionados pelo Safra.",
+    desc: "Investimentos de múltiplas casas e emissores, selecionados com critérios Safra, pautados pela independência e transparência.",
     img: "/images/blog/cash-deposit_17522259.png",
   },
   {
@@ -130,7 +130,7 @@ const Blog = () => {
               <img src={item.img} alt={item.title} />
             </div>
             <div className="item-text">
-              <h3>{item.title}</h3>
+              <h3 className="h3-item-text">{item.title}</h3>
               <p>{item.desc}</p>
             </div>
           </div>
@@ -139,7 +139,7 @@ const Blog = () => {
     </div>
     
       <SectionTitle
-          title="Soluções Física"
+          title="Soluções Pessoa Física"
           paragraph=""
           center
 
