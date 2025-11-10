@@ -4,7 +4,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Investimentos | Route Investimentos",
+  title: "Soluções | Route Investimentos",
   description: "Soluções oferecidas em parceria com a Safra.",
   // other metadata
 };
@@ -16,7 +16,7 @@ const Compliance = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Investimentos"
+        pageName="Soluções"
           description="Soluções oferecidas pela assessoria vinculada à Safra."
       />
       <InvestSectionTwo />

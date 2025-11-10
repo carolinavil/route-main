@@ -84,6 +84,11 @@
   background-color: white;
 }
 
+.circular-item:hover{
+  z-index: 99;
+}
+
+
 .circular-item:hover  .item-icon{
 background-color: #bd6f0f;
 transition: 0.5s;
@@ -100,6 +105,7 @@ cursor: pointer;
 .circular-item:hover .item-text p {
   font-size: 14px;
   transition: 0.5s;
+
 }
 .circular-item:hover {
  cursor: pointer;
