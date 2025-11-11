@@ -20,7 +20,7 @@ const AboutSectionOne = () => {
   return (
     <section id="about"
     
-     className=" bg-[#cb6a0833] white:bg-bg-color-dark py-16 md:py-20 lg:py-28"
+     className="  white:bg-bg-color-dark py-16 md:py-20 lg:py-28"
     >
            {/* className="pt-16 md:pt-20 lg:pt-28"> */}
       <div className="container">
@@ -65,10 +65,11 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="relative mx-auto aspect-[25/24] max-w-[400px] lg:mr-0">
                 <Image
-                  src="/images/about/cellman.png"
+                  src="/images/investimentos/photo-1.png"
                   alt="verbum-image"
                   fill
-                  className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
+                  className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0 border-radius:50px"
+                    style={{ borderRadius: "20px" }}
                 />
                 <Image
                   src="/images/about/about-image-dark.svg"

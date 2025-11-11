@@ -71,13 +71,14 @@
 }
 
 .item-text h3 {
-  font-size: 16px;
+  font-size:20px;
   font-weight: bold;
   margin: 5px 0;
   color: #e66c00;
 }
 
 .item-text p {
+  display: none;
   font-size: 12px;
   margin: 0;
   color: #333;
@@ -98,13 +99,14 @@ cursor: pointer;
 }
 
 .circular-item:hover .item-text h3 {
-  font-size: 20px;
+  font-size: 16px;
   transition: 0.5s;
 }
 
 .circular-item:hover .item-text p {
   font-size: 14px;
-  transition: 0.5s;
+  transition: 0.9s;
+  display: block;
 
 }
 .circular-item:hover {
