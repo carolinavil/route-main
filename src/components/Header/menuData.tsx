@@ -7,15 +7,8 @@ const menuData: Menu[] = [
     path: "/",
     newTab: false,
   },
-
-  {
+ {
     id: 2,
-    title: "Contato",
-    path: "/contato",
-    newTab: false,
-  },
-  {
-    id: 3,
     title: "Sobre nós",
     newTab: false,
     submenu: [
@@ -39,12 +32,20 @@ const menuData: Menu[] = [
       },
     ],
   },
+ 
     {
-    id: 4,
+    id: 3,
     title: "Soluções",
     path: "/investimentos",
     newTab: false,
   },
+   {
+    id: 4,
+    title: "Contato",
+    path: "/contato",
+    newTab: false,
+  },
+ 
   {
     id:5,
     title: "Conteúdo",

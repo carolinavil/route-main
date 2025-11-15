@@ -5,13 +5,13 @@ const Hero = () => {
     <>
       <section
         id="home"
-        className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[100px] xl:pt-[180px] 2xl:pb-[200px]  bg-position-y:[x312px]"
+        className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[100px] xl:pt-[180px] 2xl:pb-[200px]  bg-bottom"
         style={{ 
           backgroundImage: `url("images/hero/freepik__enhance__16390.png")`, 
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           marginTop: 100,
-          backgroundPositionY:-322,
+          backgroundPositionY:"bottom",
           filter: "brightness(0.9)"
         }}
       >
@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="w-full px-4">
               <div className="mx-auto max-w-[600px] text-left">
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-white dark:text-black sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Protegendo seu patrimônio com excelência. A força do Safra. A estratégia da Route.
+                A força do Safra. A estratégia da Route.
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-white dark:text-body-color-dark sm:text-lg md:text-4xl"
                   style={{ borderLeft: "4px inset #ccc" }}
