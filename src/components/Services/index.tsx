@@ -65,7 +65,7 @@ const items2 = [
   },
   {
     title: "Renda Fixa",
-    desc: "Variedade de produtos que combinam segurança e rentabilidade.",
+    desc: "Variedade de ativos que combinam segurança e rentabilidade.",
     img: "/images/blog/safe-box_8886247.png",
   },
   {
@@ -184,6 +184,14 @@ const Blog = () => {
        
 
     <div className="caixa-mobile">
+          <div className="mt-[100px]">
+        <SectionTitle
+          title="Soluções Corporate "
+          paragraph=""
+          center
+
+        />
+        </div>
   <Image
     src="/images/blog/corporate.JPG"
     alt="Serviços Financeiros"
